@@ -47,10 +47,6 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>bin\Hotcakes.Commerce.dll</HintPath>
     </Reference>
-    <Reference Include="Hotcakes.Modules, Version=1.8.7.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Hotcakes.Modules.dll</HintPath>
-    </Reference>
     <Reference Include="Microsoft.ApplicationBlocks.Data">
       <HintPath>..\packages\DotNetNuke.Core.7.4.1.280\lib\net40\Microsoft.ApplicationBlocks.Data.dll</HintPath>
     </Reference>
