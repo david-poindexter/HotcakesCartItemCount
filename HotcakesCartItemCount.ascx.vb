@@ -12,7 +12,7 @@ Public Class HotcakesCartCount
         'Get current cart
         Dim currentCart = HccApp.OrderServices.CurrentShoppingCart
 
-        'Populate label with current cart item count 
+        'Populate label with current cart line item count 
         lblCartCount.Text = currentCart.Items.Count.ToString
 
     End Sub
