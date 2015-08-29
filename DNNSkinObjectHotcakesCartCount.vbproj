@@ -11,8 +11,8 @@
     <ProjectGuid>{E77589C1-DE91-4B5F-9D16-54C706E8E8AD}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
-    <RootNamespace>DNNSkinOjectHotcakesCartCount</RootNamespace>
-    <AssemblyName>DNNSkinOjectHotcakesCartCount</AssemblyName>
+    <RootNamespace>DNNSkinObjectHotcakesCartCount</RootNamespace>
+    <AssemblyName>DNNSkinObjectHotcakesCartCount</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <MyType>Custom</MyType>
     <UseIISExpress>true</UseIISExpress>
@@ -27,7 +27,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\</OutputPath>
-    <DocumentationFile>DNNSkinOjectHotcakesCartCount.xml</DocumentationFile>
+    <DocumentationFile>DNNSkinObjectHotcakesCartCount.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -36,7 +36,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\</OutputPath>
-    <DocumentationFile>DNNSkinOjectHotcakesCartCount.xml</DocumentationFile>
+    <DocumentationFile>DNNSkinObjectHotcakesCartCount.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <ItemGroup>
