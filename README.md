@@ -5,9 +5,8 @@ This is a DNN theme / skin object for use with [Hotcakes Commerce](http://www.ho
 | DNN         | Hotcakes Commerce |
 |:-----------:|:-----------------:|
 | `7.4.1.280` | `01.08.07`        |
-
----
-
+ 
+ 
 ## Usage
 ### Styling
 Styling can be added to **HotcakesCartItemCount.ascx** utilizing CssClass or inline styling.
