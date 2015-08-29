@@ -23,13 +23,12 @@ Within DNN instance, create a folder named **HotcakesCartItemCount** within **~/
 <br />
 2. Copy **HotcakesCartItemCount.dll** from this project (**/bin** folder) to **~/bin** within DNN.
 <br />
-<br />
+
 #### Registering within DNN theme/skin
 Be sure to register the theme/skin object at the top of desired ASCX theme files:
 ```html
 <%@ Register TagPrefix="hcc" TagName="CartItemCount" Src="~/DesktopModules/HotcakesCartItemCount/HotcakesCartItemCount.ascx" %>
 ```
-<br />
 <br />
 Utilize the following code within the desired ASCX theme/skin files:
 ```html
