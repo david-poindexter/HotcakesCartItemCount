@@ -1,0 +1,12 @@
+C:\DEV\DNN\Skin Ojbects\Hotcakes\DNNSkinOjectHotcakesCartCount\bin\DNNSkinOjectHotcakesCartCount.dll
+C:\DEV\DNN\Skin Ojbects\Hotcakes\DNNSkinOjectHotcakesCartCount\bin\DNNSkinOjectHotcakesCartCount.pdb
+C:\DEV\DNN\Skin Ojbects\Hotcakes\DNNSkinOjectHotcakesCartCount\bin\DNNSkinOjectHotcakesCartCount.xml
+C:\DEV\DNN\Skin Ojbects\Hotcakes\DNNSkinOjectHotcakesCartCount\bin\DotNetNuke.dll
+C:\DEV\DNN\Skin Ojbects\Hotcakes\DNNSkinOjectHotcakesCartCount\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\DEV\DNN\Skin Ojbects\Hotcakes\DNNSkinOjectHotcakesCartCount\bin\Newtonsoft.Json.dll
+C:\DEV\DNN\Skin Ojbects\Hotcakes\DNNSkinOjectHotcakesCartCount\obj\Debug\DNNSkinOjectHotcakesCartCount.vbprojResolveAssemblyReference.cache
+C:\DEV\DNN\Skin Ojbects\Hotcakes\DNNSkinOjectHotcakesCartCount\obj\Debug\DNNSkinOjectHotcakesCartCount.Resources.resources
+C:\DEV\DNN\Skin Ojbects\Hotcakes\DNNSkinOjectHotcakesCartCount\obj\Debug\DNNSkinOjectHotcakesCartCount.vbproj.GenerateResource.Cache
+C:\DEV\DNN\Skin Ojbects\Hotcakes\DNNSkinOjectHotcakesCartCount\obj\Debug\DNNSkinOjectHotcakesCartCount.dll
+C:\DEV\DNN\Skin Ojbects\Hotcakes\DNNSkinOjectHotcakesCartCount\obj\Debug\DNNSkinOjectHotcakesCartCount.xml
+C:\DEV\DNN\Skin Ojbects\Hotcakes\DNNSkinOjectHotcakesCartCount\obj\Debug\DNNSkinOjectHotcakesCartCount.pdb
