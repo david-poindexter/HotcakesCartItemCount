@@ -18,6 +18,7 @@ We hope to add a build script to the project soon to auto-generate a Private Ass
 1. Within DNN instance, create a folder named **HotcakesCartItemCount** within **~/DesktopModules**.
 <br />
 <br />
+
 ##### Copy two files over
 1. Copy **HotcakesCartItemCount.ascx** from this project to the new folder just created above within DNN.
 <br />
