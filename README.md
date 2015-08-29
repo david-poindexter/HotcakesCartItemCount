@@ -31,7 +31,8 @@ We hope to add a build script to the project soon to auto-generate a Private Ass
 ```html
 <%@ Register TagPrefix="hcc" TagName="CartItemCount" Src="~/DesktopModules/HotcakesCartItemCount/HotcakesCartItemCount.ascx" %>
 ```
-
+<br />
+<br />
 + Utilize the following code within the desired ASCX theme/skin files:
 ```html
 <hcc:CartItemCount id="hccCartItemCount" runat="server" />
