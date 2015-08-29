@@ -20,6 +20,7 @@ Within DNN instance, create a folder named **HotcakesCartItemCount** within **~/
 ##### Copy two files over
 1. Copy *HotcakesCartItemCount.ascx* from this project to the new folder just created above within DNN.
 <br />
+<br />
 2. Copy **HotcakesCartItemCount.dll** from this project (**/bin** folder) to **~/bin** within DNN.
 <br />
 <br />
