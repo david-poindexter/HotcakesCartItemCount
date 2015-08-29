@@ -1,0 +1,2 @@
+﻿<%@ Control Language="vb" AutoEventWireup="true" CodeBehind="HotcakesCartItemCount.ascx.vb" Inherits="HotcakesCartItemCount.HotcakesCartCount" %>
+<asp:Label ID="lblCartCount" runat="server" CssClass="Nomal"></asp:Label>

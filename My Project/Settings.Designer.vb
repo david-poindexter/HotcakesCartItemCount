@@ -64,9 +64,9 @@ Namespace My
     Friend Module MySettingsProperty
 
         <Global.System.ComponentModel.Design.HelpKeywordAttribute("My.Settings")> _
-        Friend ReadOnly Property Settings() As Global.DNNSkinObjectHotcakesCartCount.My.MySettings
+        Friend ReadOnly Property Settings() As Global.HotcakesCartItemCount.My.MySettings
             Get
-                Return Global.DNNSkinObjectHotcakesCartCount.My.MySettings.Default
+                Return Global.HotcakesCartItemCount.My.MySettings.Default
             End Get
         End Property
     End Module
