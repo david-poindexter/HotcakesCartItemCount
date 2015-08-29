@@ -6,15 +6,7 @@ DNNSkinOjectHotcakesCartCount
 </name>
 </assembly>
 <members>
-<member name="F:DNNSkinOjectHotcakesCartCount.HotcakesCartCount.lblCartCount">
-	<summary>
-lblCartCount control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="P:DNNSkinOjectHotcakesCartCount.My.MyWebExtension.Computer">
+<member name="P:DNNSkinOjectHotcakesCartCount.My.MyWebExtension.Computer">
 	<summary>
  Returns information about the host computer.
  </summary>
@@ -39,6 +31,14 @@ To modify move field declaration from designer file to code-behind file.
  Module used to define the properties that are available in the My Namespace for Web projects.
  </summary>
 	<remarks></remarks>
+</member><member name="F:DNNSkinOjectHotcakesCartCount.HotcakesCartCount.lblCartCount">
+	<summary>
+lblCartCount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
 </member>
 </members>
 </doc>

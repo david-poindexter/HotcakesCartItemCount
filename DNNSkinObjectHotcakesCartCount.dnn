@@ -1,6 +1,6 @@
-﻿<dotnetnuketype="Package" version="5.0">
- <packages>
-    <packagename="HotcakesCartCount" type="SkinObject" version="1.0.0">
+﻿<dotnetnuke type="Package" version="5.0">
+  <packages>
+    <package name="HotcakesCartCount" type="SkinObject" version="1.0.0">
       <friendlyName>Hotcakes Cart Count</friendlyName>
       <description>This is a DNN skin object for use with Hotcakes Commerce to provide a simple count of products in the current user's cart.</description>
       <owner>
@@ -12,14 +12,14 @@
       <license />
       <releaseNotes />
       <components>
-        <componenttype="SkinObject">
+        <component type="SkinObject">
           <moduleControl>
             <controlKey>HotcakesCartCount</controlKey>
             <controlSrc>/DesktopModules/DNNSkinObjectHotcakesCartCount/HotcakesCartCount.ascx</controlSrc>
             <supportsPartialRendering>False</supportsPartialRendering>
           </moduleControl>
         </component>
-        <componenttype="Assembly">
+        <component type="Assembly">
           <assemblies>
             <assembly>
               <path>bin</path>
@@ -27,7 +27,7 @@
             </assembly>
           </assemblies>
         </component>
-        <componenttype="File">
+        <component type="File">
           <files>
             <basePath>DesktopModules\DNNSkinObjectHotcakesCartCount</basePath>
             <file>
@@ -37,5 +37,5 @@
         </component>
       </components>
     </package>
- </packages>
+  </packages>
 </dotnetnuke>

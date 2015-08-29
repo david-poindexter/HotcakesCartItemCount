@@ -97,12 +97,6 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DNNSkinObjectHotcakesCartCount.dnn.designer.vb">
-      <DependentUpon>DNNSkinObjectHotcakesCartCount.dnn.vb</DependentUpon>
-    </Compile>
-    <Compile Include="DNNSkinObjectHotcakesCartCount.dnn.vb">
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
     <Compile Include="HotcakesCartCount.ascx.designer.vb">
       <DependentUpon>HotcakesCartCount.ascx</DependentUpon>
     </Compile>
@@ -139,7 +133,6 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="DNNSkinObjectHotcakesCartCount.dnn" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
@@ -151,6 +144,8 @@
     </None>
     <Content Include="HotcakesCartCount.ascx" />
     <Content Include="packages.config" />
+    <Content Include="README.md" />
+    <Content Include="DNNSkinObjectHotcakesCartCount.dnn" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
