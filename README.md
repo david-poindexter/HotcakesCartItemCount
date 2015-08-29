@@ -2,11 +2,10 @@
 This is a DNN theme / skin object for use with [Hotcakes Commerce](http://www.hotcakescommerce.com).  It utilizes the Hotcakes *Server-Side API* to obtain the current customer's cart line item count and display it.
 
 ## Project Dependicies
-DNN (via "DotNetNuke.Core" NuGet package):  
-7.4.1.280
+| DNN         | Hotcakes Commerce |
+|:-----------:|:-----------------:|
+| `7.4.1.280` | `01.08.07`        |
 
-Hotcakes Commerce:  
-01.08.07
 ---
 
 ## Usage
