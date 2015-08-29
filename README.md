@@ -27,13 +27,12 @@ We hope to add a build script to the project soon to auto-generate a Private Ass
 <br /><br />
 
 #### Registering within DNN theme/skin
-1. Be sure to register the theme/skin object at the top of desired ASCX theme files:
++ Be sure to register the theme/skin object at the top of desired ASCX theme files:
 ```html
 <%@ Register TagPrefix="hcc" TagName="CartItemCount" Src="~/DesktopModules/HotcakesCartItemCount/HotcakesCartItemCount.ascx" %>
 ```
-<br>
 
-2. Utilize the following code within the desired ASCX theme/skin files:
++ Utilize the following code within the desired ASCX theme/skin files:
 ```html
 <hcc:CartItemCount id="hccCartItemCount" runat="server" />
 ``` 
