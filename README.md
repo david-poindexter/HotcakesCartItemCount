@@ -15,23 +15,23 @@ We hope to add a build script to the project soon to auto-generate a Private Ass
 <br />
 <br />
 ##### Create folder
-* Within DNN instance, create a folder named **HotcakesCartItemCount** within **~/DesktopModules**.
+1. Within DNN instance, create a folder named **HotcakesCartItemCount** within **~/DesktopModules**.
 <br />
 <br />
 ##### Copy two files over
-* Copy **HotcakesCartItemCount.ascx** from this project to the new folder just created above within DNN.
+1. Copy **HotcakesCartItemCount.ascx** from this project to the new folder just created above within DNN.
 <br />
 <br />
-* Copy **HotcakesCartItemCount.dll** from this project (**/bin** folder) to **~/bin** within DNN.
+2. Copy **HotcakesCartItemCount.dll** from this project (**/bin** folder) to **~/bin** within DNN.
 <br /><br />
 
 #### Registering within DNN theme/skin
-* Be sure to register the theme/skin object at the top of desired ASCX theme files:
+1. Be sure to register the theme/skin object at the top of desired ASCX theme files:
 ```html
 <%@ Register TagPrefix="hcc" TagName="CartItemCount" Src="~/DesktopModules/HotcakesCartItemCount/HotcakesCartItemCount.ascx" %>
 ```
 <br />
-* Utilize the following code within the desired ASCX theme/skin files:
+2. Utilize the following code within the desired ASCX theme/skin files:
 ```html
 <hcc:CartItemCount id="hccCartItemCount" runat="server" />
 ``` 
