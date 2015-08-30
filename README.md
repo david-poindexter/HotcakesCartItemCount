@@ -1,4 +1,4 @@
-# HotcakesCartItemCount
+# Hotcakes Cart Item Count
 This is a DNN theme / skin object for use with [Hotcakes Commerce](http://www.hotcakescommerce.com).  It utilizes the Hotcakes **Server-Side API** to obtain the current customer's cart line item count and display it.
 
 ## Project Dependicies
