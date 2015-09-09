@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <title>Hotcakes Cart Item Count by nvisionative</title>
+  </head>
+
+  <body>
+    <header>
+      <div class="inner">
+        <h1>Hotcakes Cart Item Count</h1>
+        <h2>This is a DNN theme / skin object for use with Hotcakes Commerce. It utilizes the Hotcakes Server-Side API to obtain the current customer&#39;s cart line item count and display it.</h2>
+        <a href="https://github.com/nvisionative/HotcakesCartItemCount" class="button"><small>View project on</small> GitHub</a>
+      </div>
+    </header>
+
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+          <h1>
+<a id="hotcakes-cart-item-count" class="anchor" href="#hotcakes-cart-item-count" aria-hidden="true"><span class="octicon octicon-link"></span></a>Hotcakes Cart Item Count</h1>
+
+<p>This is a DNN theme / skin object for use with <a href="http://www.hotcakescommerce.com">Hotcakes Commerce</a>.  It utilizes the Hotcakes <strong>Server-Side API</strong> to obtain the current customer's cart line item count and display it.</p>
+
+<h2>
+<a id="project-dependicies" class="anchor" href="#project-dependicies" aria-hidden="true"><span class="octicon octicon-link"></span></a>Project Dependicies</h2>
+
+<table>
+<thead>
+<tr>
+<th align="center">DNN</th>
+<th align="center">Hotcakes Commerce</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><code>7.4.1.280</code></td>
+<td align="center"><code>01.08.07</code></td>
+</tr>
+</tbody>
+</table>
+
+<h2>
+<a id="usage" class="anchor" href="#usage" aria-hidden="true"><span class="octicon octicon-link"></span></a>Usage</h2>
+
+<h4>
+<a id="styling" class="anchor" href="#styling" aria-hidden="true"><span class="octicon octicon-link"></span></a>Styling</h4>
+
+<p>Styling can be added to <strong>HotcakesCartItemCount.ascx</strong> utilizing CssClass or inline styling.</p>
+
+<h4>
+<a id="manual-installation" class="anchor" href="#manual-installation" aria-hidden="true"><span class="octicon octicon-link"></span></a>Manual Installation</h4>
+
+<p>We hope to add a build script to the project soon to auto-generate a Private Assembly package for easy installation within DNN.  Until then, only one folder needs to be manually created and two files copied over to the DNN instance file/folder structure.
+<br>
+<br></p>
+
+<h5>
+<a id="create-folder" class="anchor" href="#create-folder" aria-hidden="true"><span class="octicon octicon-link"></span></a>Create folder</h5>
+
+<ol>
+<li>Within DNN instance, create a folder named <strong>HotcakesCartItemCount</strong> within <strong>~/DesktopModules</strong>.
+<br>
+<br>
+</li>
+</ol>
+
+<h5>
+<a id="copy-two-files-over" class="anchor" href="#copy-two-files-over" aria-hidden="true"><span class="octicon octicon-link"></span></a>Copy two files over</h5>
+
+<ol>
+<li>Copy <strong>HotcakesCartItemCount.ascx</strong> from this project to the new folder just created above within DNN.
+<br>
+<br>
+</li>
+<li>Copy <strong>HotcakesCartItemCount.dll</strong> from this project (<strong>/bin</strong> folder) to <strong>~/bin</strong> within DNN.
+<br><br>
+</li>
+</ol>
+
+<h4>
+<a id="registering-within-dnn-themeskin" class="anchor" href="#registering-within-dnn-themeskin" aria-hidden="true"><span class="octicon octicon-link"></span></a>Registering within DNN theme/skin</h4>
+
+<ul>
+<li>Be sure to register the theme/skin object at the top of desired ASCX theme files:</li>
+</ul>
+
+<div class="highlight highlight-html"><pre>&lt;%@ Register TagPrefix="hcc" TagName="CartItemCount" Src="~/DesktopModules/HotcakesCartItemCount/HotcakesCartItemCount.ascx" %&gt;</pre></div>
+
+<p><br></p>
+
+<ul>
+<li>Utilize the following code within the desired ASCX theme/skin files:</li>
+</ul>
+
+<div class="highlight highlight-html"><pre>&lt;<span class="pl-ent">hcc:CartItemCount</span> <span class="pl-e">id</span>=<span class="pl-s"><span class="pl-pds">"</span>hccCartItemCount<span class="pl-pds">"</span></span> <span class="pl-e">runat</span>=<span class="pl-s"><span class="pl-pds">"</span>server<span class="pl-pds">"</span></span> /&gt;</pre></div>
+        </section>
+
+        <aside id="sidebar">
+          <a href="https://github.com/nvisionative/HotcakesCartItemCount/zipball/master" class="button">
+            <small>Download</small>
+            .zip file
+          </a>
+          <a href="https://github.com/nvisionative/HotcakesCartItemCount/tarball/master" class="button">
+            <small>Download</small>
+            .tar.gz file
+          </a>
+
+          <p class="repo-owner"><a href="https://github.com/nvisionative/HotcakesCartItemCount"></a> is maintained by <a href="https://github.com/nvisionative">nvisionative</a>.</p>
+
+          <p>This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the Architect theme by <a href="https://twitter.com/jasonlong">Jason Long</a>.</p>
+        </aside>
+      </div>
+    </div>
+
+  
+  </body>
+</html>
