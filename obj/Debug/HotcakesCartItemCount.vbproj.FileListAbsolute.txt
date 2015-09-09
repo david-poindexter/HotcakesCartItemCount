@@ -9,3 +9,25 @@ C:\DEV\DNN\Skin Ojbects\Hotcakes\DNNSkinOjectHotcakesCartCount\obj\Debug\Hotcake
 C:\DEV\DNN\Skin Ojbects\Hotcakes\DNNSkinOjectHotcakesCartCount\obj\Debug\HotcakesCartItemCount.dll
 C:\DEV\DNN\Skin Ojbects\Hotcakes\DNNSkinOjectHotcakesCartCount\obj\Debug\HotcakesCartItemCount.xml
 C:\DEV\DNN\Skin Ojbects\Hotcakes\DNNSkinOjectHotcakesCartCount\obj\Debug\HotcakesCartItemCount.pdb
+C:\DEV\Hotcakes\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\bin\HotcakesCartItemCount.dll
+C:\DEV\Hotcakes\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\bin\HotcakesCartItemCount.pdb
+C:\DEV\Hotcakes\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\bin\HotcakesCartItemCount.xml
+C:\DEV\Hotcakes\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\bin\DotNetNuke.dll
+C:\DEV\Hotcakes\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\DEV\Hotcakes\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\bin\Newtonsoft.Json.dll
+C:\DEV\Hotcakes\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\obj\Debug\HotcakesCartItemCount.Resources.resources
+C:\DEV\Hotcakes\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\obj\Debug\HotcakesCartItemCount.vbproj.GenerateResource.Cache
+C:\DEV\Hotcakes\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\obj\Debug\HotcakesCartItemCount.dll
+C:\DEV\Hotcakes\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\obj\Debug\HotcakesCartItemCount.xml
+C:\DEV\Hotcakes\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\obj\Debug\HotcakesCartItemCount.pdb
+C:\DEV\Hotcakes\Open Source Projects\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\bin\HotcakesCartItemCount.dll
+C:\DEV\Hotcakes\Open Source Projects\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\bin\HotcakesCartItemCount.pdb
+C:\DEV\Hotcakes\Open Source Projects\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\bin\HotcakesCartItemCount.xml
+C:\DEV\Hotcakes\Open Source Projects\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\bin\DotNetNuke.dll
+C:\DEV\Hotcakes\Open Source Projects\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\DEV\Hotcakes\Open Source Projects\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\bin\Newtonsoft.Json.dll
+C:\DEV\Hotcakes\Open Source Projects\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\obj\Debug\HotcakesCartItemCount.Resources.resources
+C:\DEV\Hotcakes\Open Source Projects\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\obj\Debug\HotcakesCartItemCount.vbproj.GenerateResource.Cache
+C:\DEV\Hotcakes\Open Source Projects\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\obj\Debug\HotcakesCartItemCount.dll
+C:\DEV\Hotcakes\Open Source Projects\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\obj\Debug\HotcakesCartItemCount.xml
+C:\DEV\Hotcakes\Open Source Projects\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\obj\Debug\HotcakesCartItemCount.pdb
