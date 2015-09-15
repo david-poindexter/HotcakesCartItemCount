@@ -31,3 +31,4 @@ C:\DEV\Hotcakes\Open Source Projects\Theme Objects\HotcakesCartItemCount\Hotcake
 C:\DEV\Hotcakes\Open Source Projects\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\obj\Debug\HotcakesCartItemCount.dll
 C:\DEV\Hotcakes\Open Source Projects\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\obj\Debug\HotcakesCartItemCount.xml
 C:\DEV\Hotcakes\Open Source Projects\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\obj\Debug\HotcakesCartItemCount.pdb
+C:\DEV\Hotcakes\Open Source Projects\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\obj\Debug\HotcakesCartItemCount.vbprojResolveAssemblyReference.cache

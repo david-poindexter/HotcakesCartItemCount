@@ -20,3 +20,16 @@ C:\DEV\Hotcakes\Open Source Projects\Theme Objects\HotcakesCartItemCount\Hotcake
 C:\DEV\Hotcakes\Open Source Projects\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\obj\Release\HotcakesCartItemCount.dll
 C:\DEV\Hotcakes\Open Source Projects\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\obj\Release\HotcakesCartItemCount.xml
 C:\DEV\Hotcakes\Open Source Projects\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\obj\Release\HotcakesCartItemCount.pdb
+C:\DEV\Hotcakes\Open Source Projects\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\bin\System.Web.WebPages.dll
+C:\DEV\Hotcakes\Open Source Projects\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\bin\System.Web.Mvc.dll
+C:\DEV\Hotcakes\Open Source Projects\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\bin\Microsoft.Web.Infrastructure.dll
+C:\DEV\Hotcakes\Open Source Projects\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\bin\System.Web.Razor.dll
+C:\DEV\Hotcakes\Open Source Projects\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\bin\System.Web.WebPages.Deployment.dll
+C:\DEV\Hotcakes\Open Source Projects\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\bin\System.Web.WebPages.Razor.dll
+C:\DEV\Hotcakes\Open Source Projects\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\bin\System.Web.WebPages.xml
+C:\DEV\Hotcakes\Open Source Projects\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\bin\System.Web.Mvc.xml
+C:\DEV\Hotcakes\Open Source Projects\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\bin\Microsoft.Web.Infrastructure.xml
+C:\DEV\Hotcakes\Open Source Projects\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\bin\System.Web.Razor.xml
+C:\DEV\Hotcakes\Open Source Projects\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\bin\System.Web.WebPages.Deployment.xml
+C:\DEV\Hotcakes\Open Source Projects\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\bin\System.Web.WebPages.Razor.xml
+C:\DEV\Hotcakes\Open Source Projects\Theme Objects\HotcakesCartItemCount\HotcakesCartItemCount\obj\Release\HotcakesCartItemCount.vbprojResolveAssemblyReference.cache
