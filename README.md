@@ -9,11 +9,13 @@ This is a DNN theme / skin object for use with [Hotcakes Commerce](http://www.ho
 ## Usage
 #### Styling
 Styling can be added to **HotcakesCartItemCount.ascx** utilizing CssClass or inline styling.
-
+<br />
+<br />
 
 #### MS Build Support
 We have added support for MS Build to this project.  When building the project in **Debug** mode, all appropriate files are automatically copied to a DNN instance setup at **/../../../Website**.  When building the project in **Release** mode, the project automatically creates a Private Assembly package for installation via DNN's Host > Extensions.  The package is located within the **~/Install/Modules** directory of the local development DNN instance.  Should you want to just download the latest installation package, you can get it from the **Releases** page for this project.
-
+<br />
+<br />
 
 #### Manual Installation
 Only one folder needs to be manually created and two files copied over to the DNN instance file/folder structure.
